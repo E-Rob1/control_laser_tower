@@ -1,8 +1,8 @@
 Metadata-Version: 2.4
 Name: control-laser-tower
-Version: 0.1.0
+Version: 0.1.1
 Summary: Laser tower controller package for two servos and a laser
-Author: Your Name
+Author: Robzzz
 License: MIT
 Requires-Python: >=3.8
 Description-Content-Type: text/markdown
